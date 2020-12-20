@@ -2,6 +2,7 @@
 
 #### 수강생 요구사항:
 - 파이썬 설치: https://www.anaconda.com/products/individual 에 있는 Anaconda 설치
+- Google 계정이 없는 경우 생성 (https://google.com)
 
 
 #### 교육 일정 (수강생 이해도에 따라 내용을 조정할 수 있습니다)
